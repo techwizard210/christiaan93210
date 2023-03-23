@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi👋, I'm Christiaan Eriksen</h1>
-  <h3>A passionate fullstack & blockchain engineer.</h3>
+  <h3>A passionate fullstack & blockchain engineer</h3>
 </div>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
