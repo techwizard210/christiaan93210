@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi<img width="30" src="./resources/img/waving.gif">, I'm Christiaan Eriksen</h1>
+  <h1>Hi👋, I'm Christiaan Eriksen</h1>
   <h3>A passionate fullstack & blockchain engineer.</h3>
 </div>
 
